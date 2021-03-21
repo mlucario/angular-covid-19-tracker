@@ -11,3 +11,6 @@ $primary_font: 'Roboto';
 body,html {
     font-family: $primary_font;
 }
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
